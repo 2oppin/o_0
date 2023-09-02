@@ -1,0 +1,3 @@
+[submodule "plugins/infra"]
+	path = plugins/infra
+	url = https://github.com/lebeker/o_0-infra.git
